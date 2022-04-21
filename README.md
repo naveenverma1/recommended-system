@@ -65,6 +65,7 @@ https://editor.swagger.io/
 
 
 important links -- 
+
 1 https://towardsdatascience.com/a-gentle-introduction-to-recommendation-systems-eaddcbde07ce
 
 2 https://towardsdatascience.com/the-best-tool-for-better-recommendations-systems-e57142b45f11
@@ -86,6 +87,7 @@ important links --
 10 https://docs.fast.ai/quick_start.html
 
 intro recommended systems- 
+
 1 https://www.youtube.com/watch?v=giIXNoiqO_U&t=263s&ab_channel=ArtificialIntelligence-AllinOne
 
 2 https://www.youtube.com/watch?v=9siFuMMHNIA&ab_channel=ArtificialIntelligence-AllinOne
@@ -95,6 +97,7 @@ intro recommended systems-
 4 https://www.youtube.com/watch?v=YW2b8La2ICo&ab_channel=ArtificialIntelligence-AllinOne
 
 seldon core- 
+
 1 https://docs.seldon.io/projects/seldon-core/en/latest/workflow/github-readme.html
 
 2 https://docs.seldon.io/projects/seldon-core/en/latest/reference/apis/openapi.html?highlight=swagger
@@ -106,10 +109,14 @@ seldon core-
 5 https://www.latentview.com/data-engineering-lp/introduction-to-seldon-core/
 
 
-famous recommended systems- https://github.com/topics/recommender-system
+famous recommended systems- 
+
+https://github.com/topics/recommender-system
 
 
-How does Netflix recommend movies? Matrix Factorization - https://www.youtube.com/watch?v=ZspR5PZemcs&ab_channel=Serrano.Academy
+How does Netflix recommend movies? Matrix Factorization - 
+
+https://www.youtube.com/watch?v=ZspR5PZemcs&ab_channel=Serrano.Academy
 
 
 
