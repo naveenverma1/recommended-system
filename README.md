@@ -64,6 +64,33 @@ https://editor.swagger.io/
 
 
 
+important links -- https://towardsdatascience.com/a-gentle-introduction-to-recommendation-systems-eaddcbde07ce
+https://towardsdatascience.com/the-best-tool-for-better-recommendations-systems-e57142b45f11
+https://www.kaggle.com/code/fuzzywizard/rec-sys-collaborative-filtering-dl-techniques/notebook
+https://github.com/fastai/fastai/tree/master/fastai
+https://angeleastbengal.medium.com/recommender-system-using-collaborative-filtering-in-pyspark-b98eab2aea75
+https://github.com/groverpr/Machine-Learning/blob/master/notebooks/02_Collaborative_Filtering.ipynb
+https://www.ethanrosenthal.com/2015/11/02/intro-to-collaborative-filtering/
+https://analyticsindiamag.com/a-guide-to-surprise-python-tool-for-recommender-systems/
+https://surprise.readthedocs.io/en/v1.1.1/prediction_algorithms_package.html
+https://docs.fast.ai/quick_start.html
+
+intro recommended systems- https://www.youtube.com/watch?v=giIXNoiqO_U&t=263s&ab_channel=ArtificialIntelligence-AllinOne
+https://www.youtube.com/watch?v=9siFuMMHNIA&ab_channel=ArtificialIntelligence-AllinOne
+https://www.youtube.com/watch?v=9AP-DgFBNP4&ab_channel=ArtificialIntelligence-AllinOne
+https://www.youtube.com/watch?v=YW2b8La2ICo&ab_channel=ArtificialIntelligence-AllinOne
+
+seldon core- 
+https://docs.seldon.io/projects/seldon-core/en/latest/workflow/github-readme.html
+https://docs.seldon.io/projects/seldon-core/en/latest/reference/apis/openapi.html?highlight=swagger
+https://medium.com/analytics-vidhya/manage-ml-deployments-like-a-boss-deploy-your-first-ab-test-with-sklearn-kubernetes-and-b10ae0819dfe
+https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
+https://www.latentview.com/data-engineering-lp/introduction-to-seldon-core/
+
+famous recommended systems- https://github.com/topics/recommender-system
+
+How does Netflix recommend movies? Matrix Factorization - https://www.youtube.com/watch?v=ZspR5PZemcs&ab_channel=Serrano.Academy
+
 
 
 
