@@ -36,12 +36,12 @@ in this approach, CF models are developed using machine learning algorithms to p
 
 Matrix Factorization (MF): The idea behind such models is that attitudes or preferences of a user can be determined by a small number of hidden factors. We can call these factors as Embeddings..
 
-these hidden factors in our case will be clicks, impressions ,installs, 
+these hidden factors can be no. of clicks, impressions ,installs, 
 to learn more about embeddings - https://towardsdatascience.com/structured-deep-learning-b8ca4138b848
 
   Matrix factorization can be done by various methods one of the python library is fastai and also surprise package
 
-for our use case this model will be good- 
+
 
 
 Implementation example for fast ai- 
