@@ -118,6 +118,9 @@ How does Netflix recommend movies? Matrix Factorization -
 
 https://www.youtube.com/watch?v=ZspR5PZemcs&ab_channel=Serrano.Academy
 
+others-
+https://www.youtube.com/watch?v=G4MBc40rQ2k&ab_channel=SpencerPao
+
 
 
 
